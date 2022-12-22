@@ -10,4 +10,4 @@
 
 ### Связь со мной 
 email: Dubojskijandrej@gmail.com 
-[inst](https://www.instagram.com/dyboiski_style/)
+inst: https://www.instagram.com/dyboiski_style/
