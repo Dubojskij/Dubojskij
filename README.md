@@ -9,5 +9,5 @@
 Тут я буду делиться своими проектами которые буду верстать в процессе учёбы .
 
 ### Связь со мной 
-[email] (Dubojskijandrej@gmail.com) 
-[inst]  (https://www.instagram.com/dyboiski_style/)
+email: Dubojskijandrej@gmail.com 
+[inst](https://www.instagram.com/dyboiski_style/)
